@@ -1,0 +1,16 @@
+C:\Users\Jujuba\source\repos\unicivDemo\unicivDemo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Jujuba\source\repos\unicivDemo\unicivDemo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Jujuba\source\repos\unicivDemo\unicivDemo\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Jujuba\source\repos\unicivDemo\unicivDemo\bin\Debug\netcoreapp2.1\unicivDemo.deps.json
+C:\Users\Jujuba\source\repos\unicivDemo\unicivDemo\bin\Debug\netcoreapp2.1\unicivDemo.runtimeconfig.json
+C:\Users\Jujuba\source\repos\unicivDemo\unicivDemo\bin\Debug\netcoreapp2.1\unicivDemo.runtimeconfig.dev.json
+C:\Users\Jujuba\source\repos\unicivDemo\unicivDemo\bin\Debug\netcoreapp2.1\unicivDemo.dll
+C:\Users\Jujuba\source\repos\unicivDemo\unicivDemo\bin\Debug\netcoreapp2.1\unicivDemo.pdb
+C:\Users\Jujuba\source\repos\unicivDemo\unicivDemo\obj\Debug\netcoreapp2.1\unicivDemo.csprojAssemblyReference.cache
+C:\Users\Jujuba\source\repos\unicivDemo\unicivDemo\obj\Debug\netcoreapp2.1\unicivDemo.RazorAssemblyInfo.cache
+C:\Users\Jujuba\source\repos\unicivDemo\unicivDemo\obj\Debug\netcoreapp2.1\unicivDemo.RazorAssemblyInfo.cs
+C:\Users\Jujuba\source\repos\unicivDemo\unicivDemo\obj\Debug\netcoreapp2.1\unicivDemo.AssemblyInfoInputs.cache
+C:\Users\Jujuba\source\repos\unicivDemo\unicivDemo\obj\Debug\netcoreapp2.1\unicivDemo.AssemblyInfo.cs
+C:\Users\Jujuba\source\repos\unicivDemo\unicivDemo\obj\Debug\netcoreapp2.1\unicivDemo.RazorTargetAssemblyInfo.cache
+C:\Users\Jujuba\source\repos\unicivDemo\unicivDemo\obj\Debug\netcoreapp2.1\unicivDemo.dll
+C:\Users\Jujuba\source\repos\unicivDemo\unicivDemo\obj\Debug\netcoreapp2.1\unicivDemo.pdb
